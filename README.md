@@ -11,3 +11,7 @@
 - Developed user scenarios and adjusted parameters such as epochs.
 - Ultimately, achieved significant improvements in Precision (0.95) and Recall (0.917), while successfully reducing inference time from 24ms to 11ms.
 - Skills: Python, Roboflow, YOLOv8 (Ultralytics), pandas, OpenCV, gTTS (Google Text-to-Speech), Google Colab
+  <br>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/92c6cc9f-d530-4ebb-adeb-d01eb54946de">
+</p>
