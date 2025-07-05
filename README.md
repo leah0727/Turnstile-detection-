@@ -1,6 +1,12 @@
 # Turnstile detection mobile application for the Visually Impaired
 2024 Winter Ambient AI Bootcamp & Competition Hosted by Seoul National University Graduate School of Data Science
 
+# PROJECT SUMMARY
+![Preview](./images/4.png)
+![Preview](./images/5.png)
+![Preview](./images/6.png)
+
+
 ## Overview
 - Developed a subway turnstile detection model for the visually impaired using the YOLOv8m model, with an architecture focused on user convenience and accessibility.
 - Collected a dataset of 3,987 images from 16 stations, covering 9 different types of turnstiles.
